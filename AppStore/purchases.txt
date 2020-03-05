@@ -1,0 +1,8 @@
+alex22,20-05-2019 04:14:28,9.99,Amazon
+Isabel,21-05-2019 05:20:20,9.99,Amazon
+Natasha,22-05-2019 06:13:12,2,GoogleMaps
+Natasha,21-05-2019 06:20:12,3.3,GoogleHome
+Susana,22-05-2019 06:20:12,12,LoseIt
+joao23,21-05-2019 08:20:12,12,LoseIt
+moreirasilva,22-05-2019 08:20:12,10,Slack
+Pedro,23-05-2019 08:20:12,10,Slack
